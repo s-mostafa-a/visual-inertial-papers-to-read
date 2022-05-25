@@ -10,3 +10,4 @@ All of these are temporary, and can be removed or replaced with more suitable pa
 - [ ] Balancing the Budget: Feature Selection and Tracking for Multi-Camera Visual-Inertial Odometry
 - [ ] Decoupled Right Invariant Error States for Consistent Visual-Inertial Navigation
 - [ ] Leveraging Structural Information to Improve Point Line Visual-Inertial Odometry
+- [ ] R3LIVE: A Robust, Real-Time, RGB-Colored, LiDAR-Inertial-Visual Tightly-Coupled State Estimation and Mapping Package
